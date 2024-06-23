@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ardenaafif&label=Profile%20views&color=0e75b6&style=flat" alt="ardenaafif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalharitsprasetia&label=Profile%20views&color=0e75b6&style=flat" alt="naufalharitsprasetia" /> </p>
 
 - 🔭 I’m studying on **Darussalam University**
 
