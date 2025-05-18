@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **PHP, Python Java, C++, HTML, CSS, JS, ANDROID**
+- 💬 Ask me about **PHP, Python, Java, C++, HTML, CSS, JS, Laravel**
 
-- 📫 How to reach me **naufalharisprasetia@gmail.com**
+- 📫 How to reach me ? **naufalharisprasetia@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
