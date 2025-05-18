@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naufalharitsprasetia&label=Profile%20views&color=0e75b6&style=flat" alt="naufalharitsprasetia" /> </p>
 
-- 🔭 I’m studying on **Darussalam University**
+- 🔭 I’m studying on **Darussalam Gontor University**
 
 - 🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **PHP, Java, C++, HTML, CSS, JS, ANDROID**
+- 💬 Ask me about **PHP, Python Java, C++, HTML, CSS, JS, ANDROID**
 
 - 📫 How to reach me **naufalharisprasetia@gmail.com**
 
