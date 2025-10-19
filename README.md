@@ -8,15 +8,13 @@
 
 - 🔭 I’m studying on **Darussalam Gontor University**
 
-- 🌱 I’m currently learning **Web Developer**
+- 🌱 I’m currently learning **Web Programming &  Machine Learning**
 
 - 💬 Ask me about **Laravel, PHP, Python, Javascript, C++, React, Next.JS**
 
 - 📫 How to reach me ? **naufalharisprasetia@gmail.com**
 
 - ⚡ Fun fact **My Hobby is Coding**
-
-- 📄 Know about my experiences [I was participated on Web Developer Championship](I got First Winner)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
