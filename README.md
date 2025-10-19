@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **PHP, Python, Java, C++, JS, Laravel, React, Next.JS**
+- 💬 Ask me about **Laravel, PHP, Python, Javascript, C++, React, Next.JS**
 
 - 📫 How to reach me ? **naufalharisprasetia@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **My Hobby is Coding**
 
 - 📄 Know about my experiences [I was participated on Web Developer Championship](I got First Winner)
 
